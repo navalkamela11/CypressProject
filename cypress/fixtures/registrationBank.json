@@ -1,0 +1,12 @@
+{
+    "firstName" : "Camilla",
+    "lastName" : "Naval",
+    "address" : "10th street",
+    "city" : "taytay",
+    "state" : "rizal",
+    "code" :"123",
+    "phone" : "909876",
+    "ssn" : "2333",
+    "username" : "userTest",
+    "password" : "userpass"
+}

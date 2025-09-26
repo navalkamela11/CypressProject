@@ -1,6 +1,6 @@
 // locators for login page
-const usernameInput = '#user-name'
-const passwordInput = '#password'
+const username = '#user-name'
+const password = '#password'
 const loginButton = '#login-button'
 const errorMessage = 'h3[data-test="error"]'
 const productsTitle ='.title'

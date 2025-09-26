@@ -5,8 +5,8 @@ describe('Valudate the dropdoWn value',() =>{
     })
 
     it('Select the country dropdown value', ()=>{
-        cy.get('select[name="country"]').select('ANTARTICA')
-        cy.get('select[name="country"]').should('have.value', 'ANTARTICA')
+        cy.get('select[name="country"]').select('ANTARCTICA')
+        cy.get('select[name="country"]').should('have.value', 'ANTARCTICA')
     })
 
      it('Validate the default dropdown value', ()=>{
