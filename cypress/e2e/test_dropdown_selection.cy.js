@@ -14,6 +14,6 @@ describe('Valudate the dropdoWn value',() =>{
     })
 
     it('Validate the total number of dropdown values', ()=>{
-        cy.get('select[@name="country"]>option').should('have.length', 264)
+        cy.get('select[name="country"]>option').should('have.length', 264)
     })
 })
