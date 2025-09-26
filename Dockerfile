@@ -1,0 +1,4 @@
+FROM cypress/included:cypress-15.3.0-node-22.20.0-chrome-140.0.7339.207-1-ff-143.0.1-edge-140.0.3485.81-1
+WORKDIR /app
+COPY . .
+RUN npm install

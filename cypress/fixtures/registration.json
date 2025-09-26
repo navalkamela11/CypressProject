@@ -1,0 +1,12 @@
+{
+    "firstName" : "Camilla",
+    "LastName"  : "Naval",
+    "phone" : "12334678",
+    "email" : "@email.com",
+    "address" : "10th street",
+    "city" : "Taytay",
+    "province" : "Rizal",
+    "postalCode" : "670",
+    "username" : "hello",
+    "password" : "password"
+}
