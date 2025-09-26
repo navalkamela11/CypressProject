@@ -1,4 +1,4 @@
-import { register, validateMessage} from "../pages/registrationAcc"
+import { register, validateMessage} from "../pages/registrationAcc.js"
 
 describe('Registration of Account',()=>{
 

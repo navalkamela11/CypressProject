@@ -1,4 +1,4 @@
-import { login, validateText, errorLogin, launchParaBank } from "../pages/loginBank"
+import { login, validateText, errorLogin, launchParaBank } from "../pages/loginBank.js"
 
 
 describe('Login to ParaBank',()=>{
